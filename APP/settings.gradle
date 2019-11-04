@@ -1,0 +1,2 @@
+include ':app', ':jplot1.1'
+rootProject.name='AMST2'
